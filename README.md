@@ -6,6 +6,8 @@ OpenThread is...
 <img src="https://cdn.rawgit.com/openthread/openthread/ab4c4e1e/doc/images/certified.svg" alt="Thread Certified Component" width="150px" align="right">
 </a>
 
+THIS IS just a README file copied from the Openthread Git hub.
+
 **...an open-source implementation of the [Thread](http://threadgroup.org/technology/ourtechnology) networking protocol.** Nest has released OpenThread to make the technology used in Nest products more broadly available to developers to accelerate the development of products for the connected home.
 
 **...OS and platform agnostic**, with a narrow platform abstraction layer and a small memory footprint, making it highly portable.
